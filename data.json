@@ -1,0 +1,24 @@
+{
+    "basicinfo":{
+        "name":"Aman Qureshi",
+        "age":26
+    },
+    "occupation":"Software Engineer",
+    "skills":[
+        "JavaScript",
+        "Node.js",
+        "React"
+    ],
+    "experience":[
+        {
+            "company":"Tech Company A",
+            "role":"Frontend Developer",
+            "duration":"2 years"
+        },
+        {
+            "company":"Tech Company B",
+            "role":"Backend Developer",
+            "duration":"3 years"
+        }
+    ]
+}
